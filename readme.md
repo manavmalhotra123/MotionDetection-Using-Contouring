@@ -21,7 +21,6 @@ This project serves as a practical exercise for mastering OpenCV's computer visi
 - [Understanding the Concepts](#understanding-the-concepts)
 - [Possible Extensions](#possible-extensions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Setup and Dependencies
 
